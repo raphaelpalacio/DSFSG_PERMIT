@@ -1,5 +1,5 @@
 # DSFSG_PERMIT
-This GitHub hosts the code for the permit group of the Data Science for Social Good Practicum held at Emory University
+This GitHub hosts the code for the permit group of the Data Science for Social Good Practicum (Summer 2023) held at Emory University
 
 # Description
 This GitHub repository serves as a resource for managing building permits in the Metro Atlanta area, facilitating the end-to-end process through various functionalities. It begins with a web scraping component that efficiently extracts relevant permit data from local government websites, converting PDF to CSV 
@@ -16,3 +16,6 @@ import re
 import pdfplumber
 import pandas as pd
 ```
+
+## File Conversion
+Some of the counties in the metro Atlanta Area - such as Gwinnet - uploads their building permit data as a PDF and not as a cleaned CSV. Therefore, we needed a pipeline to convert their PDFs to a CSV and then clean that CSV. This way it will be in a rectangular format and allow us to properly quiery the data into our data base.
