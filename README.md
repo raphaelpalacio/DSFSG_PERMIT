@@ -5,7 +5,7 @@ This GitHub hosts the code for the permit group of the Data Science for Social G
 # Tabel of contents
 - [Description](https://github.com/raphaelpalacio/DSFSG_PERMIT/blob/main/README.md#description)
 - [Installation](https://github.com/raphaelpalacio/DSFSG_PERMIT/blob/main/README.md#installation)
-- File Conversion
+- [File Conversion](https://github.com/raphaelpalacio/DSFSG_PERMIT/blob/main/README.md#methods)
 - [Authors and Acknowledgment](https://github.com/raphaelpalacio/DSFSG_PERMIT/blob/main/README.md#authors-and-acknowledgment)
 
 
