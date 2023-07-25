@@ -17,5 +17,8 @@ import pdfplumber
 import pandas as pd
 ```
 
-## File Conversion
+# File Conversion
 Some of the counties in the metro Atlanta Area - such as Gwinnet - uploads their building permit data as a PDF and not as a cleaned CSV. Therefore, we needed a pipeline to convert their PDFs to a CSV and then clean that CSV. This way it will be in a rectangular format and allow us to properly quiery the data into our data base.
+
+# Authors and Acknowledgment
+- Raphael Palacio
