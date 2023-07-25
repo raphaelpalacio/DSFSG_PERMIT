@@ -3,6 +3,10 @@
 This GitHub hosts the code for the permit group of the Data Science for Social Good Practicum (Summer 2023) held at Emory University
 
 # Tabel of contents
+- [Description](https://github.com/raphaelpalacio/DSFSG_PERMIT/blob/main/README.md#description)
+- [Installation](https://github.com/raphaelpalacio/DSFSG_PERMIT/blob/main/README.md#installation)
+- File Conversion
+- [Authors and Acknowledgment](https://github.com/raphaelpalacio/DSFSG_PERMIT/blob/main/README.md#authors-and-acknowledgment)
 
 
 # Description
@@ -20,7 +24,7 @@ import re
 import pdfplumber
 import pandas as pd
 ```
-
+# Methods
 ## File Conversion
 Some of the counties in the metro Atlanta Area - such as Gwinnett - upload their building permit data as a PDF and not as a cleaned CSV. Therefore, we needed a pipeline to convert their PDFs to a CSV and then clean that CSV. This way it will be in a rectangular format and allow us to properly query the data into our database
 
