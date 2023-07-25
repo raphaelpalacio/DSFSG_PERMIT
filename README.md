@@ -1,5 +1,5 @@
 # DSFSG_PERMIT
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Femory-university-logo%2F&psig=AOvVaw2Wv2pQNB0YiBUKXo0aiJ91&ust=1690399218186000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPD7iPnJqoADFQAAAAAdAAAAABAE)
+![alt text](https://1000logos.net/wp-content/uploads/2022/06/Emory-University-Logo.png)
 This GitHub hosts the code for the permit group of the Data Science for Social Good Practicum (Summer 2023) held at Emory University
 
 # Description
